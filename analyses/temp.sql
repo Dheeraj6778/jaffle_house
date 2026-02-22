@@ -1,2 +1,2 @@
 select *
-from dbo.customers
+from dbo.payments
